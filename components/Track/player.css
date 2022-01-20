@@ -1,0 +1,22 @@
+.track .rhap_container {
+  background: transparent;
+  box-shadow: none;
+  padding: 0 10px;
+}
+
+.track .rhap_current-time,
+.track .rhap_total-time {
+  color: white;
+  font-size: 12px;
+}
+
+.track .rhap_progress-bar .rhap_progress-indicator {
+  background: white;
+  height: 12px;
+  width: 12px;
+  top: -4px;
+}
+
+.track .rhap_progress-bar .rhap_progress-filled {
+  background-color: #bf53e0;
+}
