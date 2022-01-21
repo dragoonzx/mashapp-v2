@@ -29,4 +29,4 @@ If you have a contribution in mind, please open issue or PR with your ideas.
 
 # License
 
-MashApp is [GNU-3 licensed](https://github.com/dragoonzx/yak-spirit/blob/main/LICENSE)
+MashApp is [MIT licensed](https://github.com/dragoonzx/yak-spirit/blob/main/LICENSE)
