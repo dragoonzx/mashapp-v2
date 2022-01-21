@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   webpack(config, options) {
     const { isServer } = options;
     config.module.rules.push({
