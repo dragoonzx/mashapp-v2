@@ -1,4 +1,4 @@
-<img src="./src/assets/logo.svg" width="150" align="right" alt="" />
+<img src="./assets/logo.svg" width="150" align="right" alt="" />
 
 # MashApp
 
