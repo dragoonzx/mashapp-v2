@@ -3,7 +3,7 @@
 # MashApp
 
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=mashapp-v2-dragoonzx)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 
 > Interface for MashApp (in development)
 
